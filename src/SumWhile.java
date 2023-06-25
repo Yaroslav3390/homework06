@@ -5,6 +5,8 @@ public class SumWhile {
             int total = 0;
             int i = 0;
 
+
+
             while (i < numbers.length){
 
                 total += numbers[i];
